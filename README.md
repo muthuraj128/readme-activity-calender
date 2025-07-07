@@ -1,3 +1,8 @@
+<!-- Banner Image -->
+<div align="center">
+  <img src="./assets/fewinfos-banner.png" alt="Welcome to FEWINFOS Contribution - GitHub Repository Stats Widget" width="100%">
+</div>
+
 # 📦 GitHub Repository Stats Widget
 
 An open-source, fully client-side tool that visualizes **real-time GitHub repository statistics** in an interactive and customizable format — perfect for developers, open-source maintainers, and portfolio builders.
@@ -27,10 +32,10 @@ This widget uses the GitHub REST API to fetch and display various metadata and i
 
 ## 🧱 Tech Stack
 
-- **HTML** – Structure and layout  
-- **CSS** – Styling and responsiveness  
-- **JavaScript** – Logic and API handling  
-- **GitHub REST API** – Data source  
+- **HTML** – Structure and layout
+- **CSS** – Styling and responsiveness
+- **JavaScript** – Logic and API handling
+- **GitHub REST API** – Data source
 - **Chart.js** – For rendering graphs and charts (optional)
 
 ---
@@ -39,51 +44,51 @@ This widget uses the GitHub REST API to fetch and display various metadata and i
 
 ### 🔍 Repository Stats
 
-- ⭐ Stars / 🍴 Forks / 👁️ Watchers Counter  
-- 📅 Repository creation & last updated date  
-- 📜 License type display  
-- 📊 Language usage (pie, bar, donut chart)  
-- 📦 Dependency graph (npm, pip, etc.)  
-- 📈 Commit activity heatmap  
-- 🕐 Average PR merge time  
-- 🧵 Issue status breakdown (Open / Closed / Pinned)  
+- ⭐ Stars / 🍴 Forks / 👁️ Watchers Counter
+- 📅 Repository creation & last updated date
+- 📜 License type display
+- 📊 Language usage (pie, bar, donut chart)
+- 📦 Dependency graph (npm, pip, etc.)
+- 📈 Commit activity heatmap
+- 🕐 Average PR merge time
+- 🧵 Issue status breakdown (Open / Closed / Pinned)
 
 ### 👥 Contributor Widgets
 
-- 👥 Top contributors (avatars + commit counts)  
-- 📊 Contributions by weekday  
-- 🗺️ Contributor location map (public data)  
-- ⏱️ Recent contributors (last 7 / 30 days)  
-- 📈 Contributions over time (stacked area graph)  
+- 👥 Top contributors (avatars + commit counts)
+- 📊 Contributions by weekday
+- 🗺️ Contributor location map (public data)
+- ⏱️ Recent contributors (last 7 / 30 days)
+- 📈 Contributions over time (stacked area graph)
 
 ### 📊 Graph-Based Widgets
 
-- 📊 Radar chart of repo health (stars, forks, PRs, issues)  
-- 📉 Line chart for star/fork growth trends  
-- 🍩 Donut chart for language usage  
-- 📈 Area chart for issues/PR trends  
-- 📆 GitHub-style calendar heatmap  
+- 📊 Radar chart of repo health (stars, forks, PRs, issues)
+- 📉 Line chart for star/fork growth trends
+- 🍩 Donut chart for language usage
+- 📈 Area chart for issues/PR trends
+- 📆 GitHub-style calendar heatmap
 
 ### ⚙️ DevOps & CI/CD Widgets
 
-- 🚦 GitHub Actions CI/CD status badge  
-- 🧪 Code coverage badge (Codecov, Coveralls)  
-- 🔄 Last workflow run widget  
-- 🛠️ Build history timeline (success/failure visual)  
+- 🚦 GitHub Actions CI/CD status badge
+- 🧪 Code coverage badge (Codecov, Coveralls)
+- 🔄 Last workflow run widget
+- 🛠️ Build history timeline (success/failure visual)
 
 ### 📌 Issue & PR Widgets
 
-- 📋 Pinned issues or discussions  
-- 🔍 Issue label word cloud  
-- 📬 PR merge status/ratio tracker  
-- 📈 Issue sentiment indicator (based on keywords)  
+- 📋 Pinned issues or discussions
+- 🔍 Issue label word cloud
+- 📬 PR merge status/ratio tracker
+- 📈 Issue sentiment indicator (based on keywords)
 
 ### 🧩 Miscellaneous Widgets
 
-- 📌 Bookmark/Favorite repo button  
-- 🔍 Inline search to enter other repositories  
-- 🧠 AI-powered commit summary (optional)  
-- 🔗 Related repositories widget  
+- 📌 Bookmark/Favorite repo button
+- 🔍 Inline search to enter other repositories
+- 🧠 AI-powered commit summary (optional)
+- 🔗 Related repositories widget
 - 🪄 Export widget as iframe / HTML embed
 
 ---
@@ -109,9 +114,9 @@ You can deploy this widget to **GitHub Pages**, or use any static hosting servic
 
 ### Deploy via GitHub Pages
 
-1. Push your project to GitHub  
-2. Go to **Settings → Pages**  
-3. Choose branch: `main` and folder: `/ (root)`  
+1. Push your project to GitHub
+2. Go to **Settings → Pages**
+3. Choose branch: `main` and folder: `/ (root)`
 4. Your widget will be hosted at:  
    `https://yourusername.github.io/github-repo-stats-widget/`
 
@@ -121,16 +126,16 @@ You can deploy this widget to **GitHub Pages**, or use any static hosting servic
 
 We welcome community contributions!
 
-1. **Fork** this repository  
-2. **Clone** it locally  
+1. **Fork** this repository
+2. **Clone** it locally
    ```bash
    git clone https://github.com/your-username/github-repo-stats-widget.git
    ```
-3. **Create a feature branch**  
+3. **Create a feature branch**
    ```bash
    git checkout -b feature/your-feature
    ```
-4. Make changes and **commit**  
+4. Make changes and **commit**
    ```bash
    git commit -m "Add: new feature"
    git push origin feature/your-feature
@@ -141,12 +146,12 @@ We welcome community contributions!
 
 ## 🧠 Future Ideas
 
-* 📊 Add commit activity graph (last 30 days)
-* 🌐 Internationalization support
-* 🔗 Compare multiple repositories
-* 📈 Trend analysis for stars/forks over time
-* 🧩 Drag-and-drop dashboard customization
-* 🪄 Live widget customizer with embed generator
+- 📊 Add commit activity graph (last 30 days)
+- 🌐 Internationalization support
+- 🔗 Compare multiple repositories
+- 📈 Trend analysis for stars/forks over time
+- 🧩 Drag-and-drop dashboard customization
+- 🪄 Live widget customizer with embed generator
 
 ---
 
