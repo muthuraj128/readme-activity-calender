@@ -35,14 +35,14 @@ Want to be showcased as a contributor?
         <img src="https://avatars.githubusercontent.com/u/150383546?v=4" width="100px;" alt="Your Name"/><br/>
         <sub><b>Naveenraj Thiyagarajan</b></sub>
       </a><br/>
-      CEO & CO-FOUNDER
+      CEO & Co-founder 
     </td>
     <td align="center">
       <a href="https://github.com/SuvithaaaaR">
         <img src="https://avatars.githubusercontent.com/u/179398780?v=4" width="100px;" alt="Suvitha Ramesh"/><br/>
         <sub><b>Suvitha Ramesh</b></sub>
       </a><br/>
-      COO & CO-FOUNDER
+      COO & Co-founder
     </td>
     <!-- Add more contributors below this line -->
     <td align="center">
