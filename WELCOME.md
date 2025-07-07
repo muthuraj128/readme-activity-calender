@@ -55,7 +55,7 @@ Want to be showcased as a contributor?
     <td align="center">
       <a href="https://github.com/Reshma-2006">
         <img src="https://avatars.githubusercontent.com/u/176814939?s=400&u=3bcf29b415310b6648d0e7b244d7166b124da1d7&v=4" width="100px;" alt="Swathi"/><br/>
-        <sub><b>Swathi Sundharaj</b></sub>
+        <sub><b>Nureshma</b></sub>
       </a><br/>
       CTO
     </td>
