@@ -73,6 +73,13 @@ Want to be showcased as a contributor?
       </a><br/>
       Contributor
     </td>
+    <td align="center">
+      <a href="https://github.com/muthuraj128">
+        <img src="https://avatars.githubusercontent.com/u/199897552?v=4&size=64" width="100px;" alt="Muthuraj"/><br/>
+        <sub><b>Muthuraj</b></sub>
+      </a><br/>
+      Contributor
+    </td>
   </tr>
 </table>
 
