@@ -59,6 +59,13 @@ Want to be showcased as a contributor?
       </a><br/>
       CTO
     </td>
+    <td align="center">
+      <a href="https://github.com/kumaresan-07">
+        <img src="https://avatars.githubusercontent.com/u/199898753?v=4" width="100px;" alt="kumaresan C"/><br/>
+        <sub><b>kumaresan C</b></sub>
+      </a><br/>
+      contributor
+    </td>
   </tr>
 </table>
 
