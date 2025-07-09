@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- Banner Image -->
 <div align="center">
   <img src="./assets/fewinfos-banner.png" alt="Welcome to FEWINFOS Contribution - GitHub Repository Stats Widget" width="100%">
@@ -9,19 +8,16 @@
 An open-source, fully client-side tool that visualizes **real-time GitHub repository statistics** in an interactive and customizable format — perfect for developers, open-source maintainers, and portfolio builders.
 
 ---
-=======
+
 # 📦 GitHub Repository Stats Widgets
 
 An open-source, fully client-side tool that visualizes **real-time GitHub repository statistics** in an interactive and customizable format — perfect for developers, open-source maintainers, and portfolio builders.
 
 
->>>>>>> 984b86bef344659b45115bcda7f2afbf4bd21911
-
 ## 🎯 Objective
 
 This widget uses the GitHub REST API to fetch and display various metadata and insights about any public GitHub repository. It works **entirely in the browser** with no backend or authentication required.
 
-<<<<<<< HEAD
 ---
 
 ## ✨ Features
@@ -48,8 +44,6 @@ This widget uses the GitHub REST API to fetch and display various metadata and i
 - **Chart.js** – For rendering graphs and charts (optional)
 
 ---
-=======
-
 
 ## ✨ Features
 
@@ -74,14 +68,10 @@ This widget uses the GitHub REST API to fetch and display various metadata and i
 - **GitHub REST API** – Data source  
 - **Chart.js** – For rendering graphs and charts (optional)  
 
-
->>>>>>> 984b86bef344659b45115bcda7f2afbf4bd21911
-
 ## 📊 Available Widgets
 
 ### 🔍 Repository Stats
 
-<<<<<<< HEAD
 - ⭐ Stars / 🍴 Forks / 👁️ Watchers Counter
 - 📅 Repository creation & last updated date
 - 📜 License type display
@@ -196,9 +186,6 @@ github-repo-stats-widget/
 
 <<<<<<< HEAD
 ---
-=======
-
->>>>>>> 984b86bef344659b45115bcda7f2afbf4bd21911
 
 ## 🚀 Deployment
 
@@ -212,7 +199,6 @@ You can deploy this widget to **GitHub Pages**, or use any static hosting servic
 4. Your widget will be hosted at:  
    `https://yourusername.github.io/github-repo-stats-widget/`
 
-<<<<<<< HEAD
 ---
 
 ## 🙌 Contribution Guide
@@ -264,7 +250,4 @@ Feel free to use, modify, and distribute it with attribution.
 ---
 
 > 🛠 Built with ❤️ for the open-source community.
-=======
 
-
->>>>>>> 984b86bef344659b45115bcda7f2afbf4bd21911
