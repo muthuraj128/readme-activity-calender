@@ -87,6 +87,13 @@ Want to be showcased as a contributor?
   </a><br/>
   Contributor
 </td>
+<td align="center">
+  <a href="https://github.com/Poovitha-R">
+    <img src="https://avatars.githubusercontent.com/u/170193325?v=4" width="100px;" alt="Poovitha"/><br/>
+    <sub><b>Poovitha</b></sub>
+  </a><br/>
+  Contributor
+</td>
 
   </tr>
 </table>
