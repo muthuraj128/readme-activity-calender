@@ -80,6 +80,14 @@ Want to be showcased as a contributor?
       </a><br/>
       Contributor
     </td>
+    <td align="center">
+  <a href="https://github.com/Indhuja-k">
+    <img src="https://avatars.githubusercontent.com/u/157321314?v=4" width="100px;" alt="Indhuja"/><br/>
+    <sub><b>Indhuja</b></sub>
+  </a><br/>
+  Contributor
+</td>
+
   </tr>
 </table>
 
