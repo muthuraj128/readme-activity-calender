@@ -39,30 +39,6 @@ This widget uses the GitHub REST API to fetch and display various metadata and i
 - **Chart.js** – For rendering graphs and charts (optional)
 
 ---
-
-## ✨ Features
-
-- 🔄 Real-time data fetching via GitHub REST API  
-- ⭐ Displays stars, forks, watchers, issues, and pull requests  
-- 👥 Visualizes top contributors with avatars and commit counts  
-- 📊 Shows languages used with interactive charts  
-- 📅 Displays repository creation date and last updated time  
-- 📜 Shows license information  
-- 🎨 Clean, responsive, and customizable UI  
-- 💻 Works directly in any browser (no server setup)  
-- 🧩 Easily embeddable in websites or README.md files  
-- 📈 Optional visualizations via Chart.js  
-
-
-
-## 🧱 Tech Stack
-
-- **HTML** – Structure and layout  
-- **CSS** – Styling and responsiveness  
-- **JavaScript** – Logic and API handling  
-- **GitHub REST API** – Data source  
-- **Chart.js** – For rendering graphs and charts (optional)  
-
 ## 📊 Available Widgets
 
 ### 🔍 Repository Stats
@@ -193,56 +169,4 @@ You can deploy this widget to **GitHub Pages**, or use any static hosting servic
 3. Choose branch: `main` and folder: `/ (root)`
 4. Your widget will be hosted at:  
    `https://yourusername.github.io/github-repo-stats-widget/`
-
----
-
-## 🙌 Contribution Guide
-
-We welcome community contributions!
-
-1. **Fork** this repository
-2. **Clone** it locally
-   ```bash
-   git clone https://github.com/your-username/github-repo-stats-widget.git
-   ```
-3. **Create a feature branch**
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-4. Make changes and **commit**
-   ```bash
-   git commit -m "Add: new feature"
-   git push origin feature/your-feature
-   ```
-5. **Open a Pull Request**
-
----
-
-## 🧠 Future Ideas
-
-- 📊 Add commit activity graph (last 30 days)
-- 🌐 Internationalization support
-- 🔗 Compare multiple repositories
-- 📈 Trend analysis for stars/forks over time
-- 🧩 Drag-and-drop dashboard customization
-- 🪄 Live widget customizer with embed generator
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.  
-Feel free to use, modify, and distribute it with attribution.
-
----
-
-## 💬 Contact
-
-**Maintainer:** [Your Name]  
-**GitHub:** [https://github.com/your-username](https://github.com/your-username)  
-**Email:** your.email@example.com
-
----
-
-> 🛠 Built with ❤️ for the open-source community.
 
