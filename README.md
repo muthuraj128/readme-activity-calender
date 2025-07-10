@@ -9,11 +9,6 @@ An open-source, fully client-side tool that visualizes **real-time GitHub reposi
 
 ---
 
-# 📦 GitHub Repository Stats Widgets
-
-An open-source, fully client-side tool that visualizes **real-time GitHub repository statistics** in an interactive and customizable format — perfect for developers, open-source maintainers, and portfolio builders.
-
-
 ## 🎯 Objective
 
 This widget uses the GitHub REST API to fetch and display various metadata and insights about any public GitHub repository. It works **entirely in the browser** with no backend or authentication required.
