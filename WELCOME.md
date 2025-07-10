@@ -108,9 +108,14 @@ Want to be showcased as a contributor?
       </a><br/>
       Contributor
     </td>
-
-
-  </tr>
+ <td align="center">
+      <a href="https://github.com/Karunya-csbs">
+      <img src="https://avatars.githubusercontent.com/u/177417444?v=4" width="100px"; alt="Karunya"/><br/>
+      <sub><b>Karunya</b></sub>
+      </a><br/>
+      Contributor
+    </td>
+ </tr>
 </table>
 
 > 📌 _Submit a PR to add yourself to the list above._
