@@ -90,8 +90,6 @@ This widget uses the GitHub REST API to fetch and display various metadata and i
 - 🔗 Related repositories widget
 - 🪄 Export widget as iframe / HTML embed
 
----
-=======
 - ⭐ Stars / 🍴 Forks / 👁️ Watchers Counter  
 - 📅 Repository creation & last updated date  
 - 📜 License type display  
@@ -140,8 +138,6 @@ This widget uses the GitHub REST API to fetch and display various metadata and i
 - 🪄 Export widget as iframe / HTML embed  
 
 
->>>>>>> 984b86bef344659b45115bcda7f2afbf4bd21911
-
 ## 📂 Project Structure
 
 ```
@@ -154,8 +150,6 @@ github-repo-stats-widget/
 ├── README.md          # This documentation file
 └── LICENSE            # MIT License
 ```
-
-<<<<<<< HEAD
 ---
 
 ## 🚀 Deployment
