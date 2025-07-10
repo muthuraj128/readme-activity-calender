@@ -80,6 +80,14 @@ Want to be showcased as a contributor?
       </a><br/>
       Contributor
     </td>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JayanithaSivakumar">
+        <img src="https://avatars.githubusercontent.com/u/199749955?s=400&v=4" width="100px;" alt="Jayanitha S"/><br/>
+        <sub><b>Jayanitha S</b></sub>
+      </a><br/>
+      Contributor
+    </td>
   </tr>
 </table>
 
