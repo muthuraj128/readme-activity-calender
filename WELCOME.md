@@ -108,8 +108,7 @@ Want to be showcased as a contributor?
       </a><br/>
       Contributor
     </td>
-
-  </tr>
+ </tr>
 </table>
 
 > 📌 _Submit a PR to add yourself to the list above._
