@@ -35,14 +35,14 @@ Want to be showcased as a contributor?
         <img src="https://avatars.githubusercontent.com/u/150383546?v=4" width="100px;" alt="Your Name"/><br/>
         <sub><b>Naveenraj Thiyagarajan</b></sub>
       </a><br/>
-      CEO & Co-founder 
+      Admin 
     </td>
     <td align="center">
       <a href="https://github.com/SuvithaaaaR">
         <img src="https://avatars.githubusercontent.com/u/179398780?v=4" width="100px;" alt="Suvitha Ramesh"/><br/>
         <sub><b>Suvitha Ramesh</b></sub>
       </a><br/>
-      COO & Co-founder
+      Maintainer 
     </td>
     <!-- Add more contributors below this line -->
     <td align="center">
@@ -50,21 +50,21 @@ Want to be showcased as a contributor?
         <img src="https://avatars.githubusercontent.com/u/176415739?s=400&u=47e146116b1b15a300e9af8f64c7a73b3564555c&v=4" width="100px;" alt="Swathi"/><br/>
         <sub><b>Swathi Sundharaj</b></sub>
       </a><br/>
-      Lead Developer
+     Maintainer
     </td>
     <td align="center">
       <a href="https://github.com/Reshma-2006">
         <img src="https://avatars.githubusercontent.com/u/176814939?s=400&u=3bcf29b415310b6648d0e7b244d7166b124da1d7&v=4" width="100px;" alt="Swathi"/><br/>
         <sub><b>Nureshma</b></sub>
       </a><br/>
-      CTO
+      Maintainer
     </td>
      <td align="center">
       <a href="https://github.com/ragavi1105">
         <img src="https://avatars.githubusercontent.com/u/147172147?v=4" alt="Ragavi"/><br/>
         <sub><b>Ragavi</b></sub>
       </a><br/>
-      Developer
+      Maintainer
     </td>
     <td align="center">
       <a href="https://github.com/kumaresan-07">
