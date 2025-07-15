@@ -131,7 +131,7 @@ Want to be showcased as a contributor?
     </td>
     <td align="center">
     <a href="https://github.com/Sridevi-2206">
-    <img src="https://avatars.githubusercontent.com/u/165007361?v=4" width="100px;" alt="Sridevi"/><br/>
+   <img src="https://avatars.githubusercontent.com/u/157321314?v=4" width="100px;" alt="Sridevi S"/><br/>
     <sub><b>Sridevi</b></sub>
   </a><br/>
   Contributor
