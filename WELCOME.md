@@ -143,6 +143,13 @@ Want to be showcased as a contributor?
   </a><br/>
   Contributor
 </td>
+    <td align="center">
+    <a href="https://github.com/anitha-2811">
+    <img src="https://avatars.githubusercontent.com/u/176692483?v=4" width="100px;" alt="Anitha"/><br/>
+    <sub><b>Anitha</b></sub>
+  </a><br/>
+  Contributor
+</td>
  </tr>
 </table>
 
