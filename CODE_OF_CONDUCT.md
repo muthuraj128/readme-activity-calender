@@ -45,7 +45,7 @@ Examples of representing a project include using an official project email addre
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at [fewinfos@gmail.com]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team at [fewinfos [at] gmail [dot] com]. All complaints will be reviewed and investigated promptly and fairly.
 
 All project team members are obligated to respect the privacy and security of the reporter of any incident.
 
