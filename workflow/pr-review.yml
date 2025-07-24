@@ -1,0 +1,46 @@
+name: PR Code Review
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install linters and tools
+        run: |
+          npm install -g eslint stylelint prettier htmlhint cspell markdownlint-cli
+
+      - name: Run ESLint on JavaScript
+        run: |
+          eslint . --ext .js || true
+
+      - name: Run Stylelint on CSS
+        run: |
+          stylelint "**/*.css" || true
+
+      - name: Run Prettier (format check)
+        run: |
+          prettier --check "**/*.{js,css,html}" || true
+
+      - name: Run HTMLHint
+        run: |
+          htmlhint . || true
+
+      - name: Spell Check with cSpell
+        run: |
+          cspell "**" || true
+
+      - name: Markdown Lint
+        run: |
+          markdownlint "**/*.md" || true
