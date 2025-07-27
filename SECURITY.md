@@ -6,7 +6,7 @@ Thank you for taking the time to help improve the security of this project. We s
 
 If you discover a security issue in **GitHub Repo Stats Widget**, please follow these guidelines:
 
-- 📧 Contact: fewinfos[at]gmail[dot]cpm
+- 📧 Contact: fewinfos[at]gmail[dot]com
 - 📦 Include detailed information such as:
   - Steps to reproduce
   - Screenshots or logs
