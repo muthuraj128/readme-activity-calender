@@ -17,7 +17,7 @@ An open-source, fully client-side tool that visualizes **real-time GitHub reposi
 
 >>>>>>> 984b86bef344659b45115bcda7f2afbf4bd21911
 
-## 🎯 Objective
+## 🎯 Objective   
 
 This widget uses the GitHub REST API to fetch and display various metadata and insights about any public GitHub repository. It works **entirely in the browser** with no backend or authentication required.
 
@@ -78,8 +78,8 @@ This widget uses the GitHub REST API to fetch and display various metadata and i
 >>>>>>> 984b86bef344659b45115bcda7f2afbf4bd21911
 
 ## 📊 Available Widgets
-
-### 🔍 Repository Stats
+  
+### 🔍 Repository Stats  
 
 <<<<<<< HEAD
 - ⭐ Stars / 🍴 Forks / 👁️ Watchers Counter
