@@ -1,0 +1,51 @@
+name: CI + CD (Post-Merge Only)
+
+on:
+  push:
+    branches: [main]  # Only trigger after merge into main
+
+permissions:
+  contents: write  # Required for GitHub Pages deployment
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧾 Checkout code
+        uses: actions/checkout@v4
+
+      - name: ✅ JavaScript Syntax Check
+        run: |
+          for file in $(find . -name "*.js"); do
+            echo "Checking JS: $file"
+            node -c "$file" || exit 1
+          done
+
+      - name: ✅ HTML Validation
+        uses: Cyb3r-Jak3/html5validator-action@v1.4.1
+        with:
+          root: .
+          skip_warnings: false
+
+      - name: ✅ CSS Validation
+        run: |
+          for file in $(find . -name "*.css"); do
+            echo "Validating CSS: $file"
+            curl -s -F "file=@$file;type=text/css" https://jigsaw.w3.org/css-validator/validator \
+              | grep -q "No error" || (echo "CSS validation failed for $file" && exit 1)
+
+  deploy:
+    needs: validate
+    runs-on: ubuntu-latest
+    if: success()
+
+    steps:
+      - name: 🧾 Checkout code
+        uses: actions/checkout@v4
+
+      - name: 🚀 Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./  # Change if files are inside a folder like /public or /docs
