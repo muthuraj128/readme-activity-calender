@@ -1,0 +1,27 @@
+name: PR Auto Review Bot
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  auto-review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add a PR Review Comment
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.payload.pull_request.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `👋 Hello @${context.payload.pull_request.user.login}, thanks for your contribution!
+
+We're reviewing your pull request. Please ensure:
+- ✅ Your code follows the repo’s coding guidelines.
+- 📄 You've added necessary documentation.
+- 🧪 Tests (if applicable) are added or updated.
+
+Happy coding! 🚀`
+            })
