@@ -36,9 +36,9 @@ jobs:
               - Feel free to ask questions or suggest improvements.
               - Explore other issues if you're looking to contribute more`;
               await github.rest.issues.createComment({
-              owner,
-              repo,
-              issue_number: context.payload.pull_request.number,
-              body: welcomeMessage
+                owner,
+                repo,
+                issue_number: context.payload.pull_request.number,
+                body: welcomeMessage
               });
             }
