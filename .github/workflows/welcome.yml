@@ -30,15 +30,15 @@ jobs:
 
             if (prCount === 1) {
               const welcomeMessage = `👋 Hi @${prUser}! Thanks for your first pull request. Welcome to the project! 🎉
-              we're thrilled to have you here. This is a collaborative space where everyone's contributions are valued.
+              We're thrilled to have you here. This is a collaborative space where everyone's contributions are valued.
               🔧 **Next steps**:
               - A maintainer will review your PR soon.
               - Feel free to ask questions or suggest improvements.
               - Explore other issues if you're looking to contribute more`;
-                await github.rest.issues.createComment({
-                owner,
-                repo,
-                issue_number: context.payload.pull_request.number,
-                body: welcomeMessage
+              await github.rest.issues.createComment({
+              owner,
+              repo,
+              issue_number: context.payload.pull_request.number,
+              body: welcomeMessage
               });
             }
