@@ -1,0 +1,25 @@
+name: Welcome New Contributor
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Welcome first-time contributor
+        uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          pr-message: |
+            👋 Hi @${{ github.actor }}!
+
+            🎉 Congratulations on your first pull request and welcome to the **FewInfos** community!
+
+            We’re excited to have you here. Feel free to check out our [README](https://github.com/Fewinfos/readme-activity-calender#readme) and our **Activity Calendar** to track your contributions and stay updated.
+
+            If you have any questions or ideas, don’t hesitate to reach out.  
+            Looking forward to more awesome contributions from you! 🚀
+
+            Happy coding! 💻
