@@ -1,0 +1,9 @@
+docs:
+  - "*.md"
+
+workflows:
+  - ".github/workflows/**"
+
+assets:
+  - "assets/**"
+  
