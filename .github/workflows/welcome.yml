@@ -15,9 +15,9 @@ jobs:
           pr-message: |
             👋 Hi @${{ github.actor }}!
 
-            🎉 Congratulations on your first pull request and welcome to the **FewInfos** community!
+            🎉 Congratulations on your first pull request and welcome to the **Fewinfos** community!
 
-            We’re excited to have you here. Feel free to check out our [README](https://github.com/Fewinfos/readme-activity-calendar#readme) and our **Activity Calendar** to track your contributions and stay updated.
+            We’re excited to have you here. Feel free to check out our [README](https://github.com/Fewinfos/readme-activity-calender#readme) and our **Activity Calender** to track your contributions and stay updated.
 
             If you have any questions or ideas, don’t hesitate to reach out.  
             Looking forward to more awesome contributions from you! 🚀
