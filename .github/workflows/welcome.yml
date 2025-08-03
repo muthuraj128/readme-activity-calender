@@ -33,14 +33,14 @@ jobs:
             if (prCount <= 1) {
               const welcomeMessage = `👋 **Hi @${prUser}!** Thanks for your first pull request and welcome to the project! 🎉
 
-We're thrilled to have you here. This is a collaborative space where everyone's contributions are valued.
+              We're thrilled to have you here. This is a collaborative space where everyone's contributions are valued.
 
-### 🔧 Next steps:
-- A maintainer will review your PR shortly.
-- Feel free to ask questions or suggest improvements.
-- Explore other [good first issues](https://github.com/${owner}/${repo}/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) if you're interested in contributing more.
+              ### 🔧 Next steps:
+              - A maintainer will review your PR shortly.
+              - Feel free to ask questions or suggest improvements.
+              - Explore other [good first issues](https://github.com/${owner}/${repo}/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) if you're interested in contributing more.
 
-Happy coding! 🚀`;
+              Happy coding! 🚀`;
 
               await github.rest.issues.createComment({
                 owner,
