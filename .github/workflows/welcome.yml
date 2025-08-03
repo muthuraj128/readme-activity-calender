@@ -28,7 +28,7 @@ jobs:
 
             const prCount = issues.filter(issue => issue.pull_request).length;
 
-            if (prCount < 100) {
+            if (prCount <= 1) {
               const welcomeMessage = `👋 Hi @${prUser}! Thanks for your first pull request. Welcome to the project! 🎉
               We're thrilled to have you here. This is a collaborative space where everyone's contributions are valued.
               🔧 **Next steps**:
