@@ -26,7 +26,7 @@ This widget uses the GitHub REST API to fetch and display various metadata and i
 - 🎨 Clean, responsive, and customizable UI
 - 💻 Works directly in any browser (no server setup)
 - 🧩 Easily embeddable in websites or README.md files
-- 📈 Optional visualizations via Chart.js
+
 
 ---
 
