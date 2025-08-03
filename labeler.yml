@@ -1,0 +1,21 @@
+documentation:
+  - '**/*.md'
+
+bug:
+  - '**/*bug*'
+  - '**/fix/**'
+
+enhancement:
+  - '**/*.js'
+  - '**/*.ts'
+  - '**/*.py'
+
+ci:
+  - '.github/workflows/**'
+
+config:
+  - '**/*.yml'
+  - '**/*.yaml'
+
+welcome-workflow:
+  - '.github/workflows/welcome-review.yml'
