@@ -18,5 +18,10 @@ jobs:
               issue_number: context.payload.pull_request.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: "👋 Hello @${{ github.actor }}!\n\nThanks for opening this pull request. Please make sure you've done the following:\n\n✅ Described what your PR does\n✅ Linked any related issues\n✅ Followed naming and formatting guidelines\n\nOur team will review your contribution soon! 🚀"
-            });
+              body: `👋 Hello @${{ github.actor }}!\n\n` +
+                    `Thanks for opening this pull request. Please make sure you've done the following:\n\n` +
+                    `✅ Described what your PR does\n` +
+                    `✅ Linked any related issues\n` +
+                    `✅ Followed naming and formatting guidelines\n\n` +
+                    `Our team will review your contribution soon! 🚀`
+            })
