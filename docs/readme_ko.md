@@ -1,6 +1,6 @@
 <!-- 배너 -->
 <div align="center">
-  <img src="./assets/fewinfos-banner.png" alt="FEWINFOS Contribution - GitHub Repository Stats Widget에 오신 것을 환영합니다" width="100%">
+  <img src="../assets/fewinfos-banner.png" alt="FEWINFOS Contribution - GitHub Repository Stats Widget에 오신 것을 환영합니다" width="100%">
 </div>
 
 # 📦 GitHub 저장소 통계 위젯
