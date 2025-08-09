@@ -1,6 +1,6 @@
 <!-- バナー画像 -->
 <div align="center">
-  <img src="./assets/fewinfos-banner.png" alt="FEWINFOS Contribution - GitHub Repository Stats Widget へようこそ" width="100%">
+  <img src="../assets/fewinfos-banner.png" alt="FEWINFOS Contribution - GitHub Repository Stats Widget へようこそ" width="100%">
 </div>
 
 # 📦 GitHub リポジトリ統計ウィジェット
@@ -91,10 +91,9 @@
 - 🔗 関連リポジトリウィジェット
 - 🪄 ウィジェットを iframe / HTML 埋め込みとしてエクスポート
 
----
 
 ## 📂 プロジェクト構造
-
+```
 github-repo-stats-widget/
 ├── index.html # メイン HTML ファイル
 ├── style.css # CSS スタイル
@@ -103,7 +102,7 @@ github-repo-stats-widget/
 ├── assets/ # アイコン、スクリーンショット
 ├── README.md # このドキュメント
 └── LICENSE # MIT ライセンス
-
+```
 ---
 
 ## 🚀 デプロイ
