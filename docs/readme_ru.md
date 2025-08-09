@@ -1,6 +1,6 @@
 <!-- Баннер -->
 <div align="center">
-  <img src="./assets/fewinfos-banner.png" alt="Добро пожаловать в FEWINFOS Contribution - GitHub Repository Stats Widget" width="100%">
+  <img src="../assets/fewinfos-banner.png" alt="Добро пожаловать в FEWINFOS Contribution - GitHub Repository Stats Widget" width="100%">
 </div>
 
 # 📦 Виджет статистики репозитория GitHub
@@ -91,10 +91,9 @@
 - 🔗 Виджет связанных репозиториев  
 - 🪄 Экспорт в iframe / HTML  
 
----
 
 ## 📂 Структура проекта
-
+```
 github-repo-stats-widget/
 ├── index.html # Основной HTML файл
 ├── style.css # Стили CSS
@@ -103,7 +102,7 @@ github-repo-stats-widget/
 ├── assets/ # Иконки, скриншоты
 ├── README.md # Этот файл документации
 └── LICENSE # Лицензия MIT
-
+```
 ---
 
 ## 🚀 Развёртывание
