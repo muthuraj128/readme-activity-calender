@@ -1,6 +1,6 @@
 <!-- 横幅图片 -->
 <div align="center">
-  <img src="./assets/fewinfos-banner.png" alt="欢迎来到 FEWINFOS Contribution - GitHub Repository Stats Widget" width="100%">
+  <img src="../assets/fewinfos-banner.png" alt="欢迎来到 FEWINFOS Contribution - GitHub Repository Stats Widget" width="100%">
 </div>
 
 # 📦 GitHub 仓库统计小部件
