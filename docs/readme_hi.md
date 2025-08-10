@@ -1,6 +1,6 @@
 <!-- बैनर छवि -->
 <div align="center">
-  <img src="./assets/fewinfos-banner.png" alt="FEWINFOS Contribution में आपका स्वागत है - GitHub Repository Stats Widget" width="100%">
+  <img src="../assets/fewinfos-banner.png" alt="FEWINFOS Contribution में आपका स्वागत है - GitHub Repository Stats Widget" width="100%">
 </div>
 
 # 📦 GitHub रिपॉज़िटरी आँकड़े विजेट
