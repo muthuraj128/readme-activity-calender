@@ -91,10 +91,9 @@ Ce widget utilise l’API REST de GitHub pour récupérer et afficher diverses m
 - 🔗 Widget de dépôts liés
 - 🪄 Exporter le widget en iframe / intégration HTML
 
----
 
 ## 📂 Structure du Projet
-
+```
 github-repo-stats-widget/
 ├── index.html # Fichier HTML principal
 ├── style.css # Styles CSS
@@ -103,7 +102,7 @@ github-repo-stats-widget/
 ├── assets/ # Icônes, captures d’écran
 ├── README.md # Ce fichier de documentation
 └── LICENSE # Licence MIT
-
+```
 ---
 
 ## 🚀 Déploiement
