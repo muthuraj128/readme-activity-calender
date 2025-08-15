@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="./assets/fewinfos-banner.png" alt="FEWINFOS Contribution में आपका स्वागत है - GitHub रिपॉजिटरी आँकड़े विजेट" width="100%">
+  <img src="../assets/fewinfos-banner.png" alt="FEWINFOS Contribution में आपका स्वागत है - GitHub रिपॉजिटरी आँकड़े विजेट" width="100%">
 </div>
 
 # 📦 GitHub रिपॉजिटरी आँकड़े विजेट
