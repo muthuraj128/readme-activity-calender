@@ -91,10 +91,9 @@ Este widget utiliza la API REST de GitHub para obtener y mostrar diversos metada
 - 🔗 Widget de repositorios relacionados
 - 🪄 Exportar widget como iframe / HTML embebido
 
----
 
 ## 📂 Estructura del Proyecto
-
+```
 github-repo-stats-widget/
 ├── index.html # Archivo HTML principal
 ├── style.css # Estilos CSS
@@ -103,7 +102,7 @@ github-repo-stats-widget/
 ├── assets/ # Iconos, capturas de pantalla
 ├── README.md # Este archivo de documentación
 └── LICENSE # Licencia MIT
-
+```
 ---
 
 ## 🚀 Despliegue
