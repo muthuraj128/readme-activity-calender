@@ -92,7 +92,7 @@ Dieses Widget verwendet die GitHub REST API, um verschiedene Metadaten und Einbl
 - 🪄 Widget als iframe / HTML-Embed exportieren
 
 ## 📂 Projektstruktur
-
+```
 github-repo-stats-widget/
 ├── index.html # Haupt-HTML-Datei
 ├── style.css # CSS-Stile
@@ -101,6 +101,7 @@ github-repo-stats-widget/
 ├── assets/ # Icons, Screenshots
 ├── README.md # Diese Dokumentationsdatei
 └── LICENSE # MIT-Lizenz
+```
 ---
 
 ## 🚀 Bereitstellung
