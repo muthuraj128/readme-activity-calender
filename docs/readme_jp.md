@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="./assets/fewinfos-banner.png" alt="FEWINFOSコントリビューションへようこそ - GitHubリポジトリ統計ウィジェット" width="100%">
+  <img src="../assets/fewinfos-banner.png" alt="FEWINFOSコントリビューションへようこそ - GitHubリポジトリ統計ウィジェット" width="100%">
 </div>
 
 # 📦 GitHubリポジトリ統計ウィジェット
