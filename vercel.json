@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/src/index.js"
+    }
+  ],
+  "functions": {
+    "src/index.js": {
+      "memory": 128
+    }
+  }
+}
