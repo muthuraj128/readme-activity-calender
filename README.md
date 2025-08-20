@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-<div align="center">
-  <img src="./assets/fewinfos-banner.png" alt="Welcome to FEWINFOS Contribution - GitHub Repository Stats Widget" width="100%">
-</div>
+
+[![Banner Image](https://github-repo-readme-stats.vercel.app/api)](https://github.com/fewinfos)
+
 
 # 📦 GitHub Repository Stats Widget
 
